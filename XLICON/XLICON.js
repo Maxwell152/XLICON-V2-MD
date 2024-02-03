@@ -1,4 +1,4 @@
 /**
- * @XLICON_V2
- * https://github.com/salmanytofficial/XLICON-V2-MD
+ * @MAXWELL_V2
+ * https://wa.me/qr/MY2JIUSBX5FJD1
  */
