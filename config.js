@@ -61,15 +61,15 @@ global.packname = 'MAXWELL TEAM'
 global.author = '@MAXWELL-MD' 
 global.menuvid = 'https://telegra.ph/file/3afb32a4943d15bd99a13.mp4'
 global.igfg = '▢✓ Follow My On Tiktok https://www.tiktok.com/@maxwell_gaming999?_t=8jZPez38wQ2&_r=1'
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://www.tiktok.com/@maxwell_gaming999?_t=8jZPez38wQ2&_r=1' 
+global.dygp = 'https://wa.me/qr/MY2JIUSBX5FJD1'
+global.fgsc = 'https://wa.me/qr/MY2JIUSBX5FJD1' 
 global.fgyt = 'https://www.tiktok.com/@maxwell_gaming999?_t=8jZPez38wQ2&_r=1'
 global.fgpyp = 'https://www.tiktok.com/@maxwell_gaming999?_t=8jZPez38wQ2&_r=1'
 global.fglog = 'MAXWELL.jpg' 
 global.thumb = fs.readFileSync('./MAXWELL.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣WAIT MAXWELL-MD IS LOADING BITCH ..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
@@ -80,7 +80,7 @@ global.multiplier = 69
 global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
-watchFile(file, () => {
+watchFile(file, () => 
   unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
